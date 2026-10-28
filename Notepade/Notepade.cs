@@ -1,9 +1,9 @@
 namespace Notepade
 {
-    public partial class Form1 : Form
+    public partial class Notepade : Form
     {
         private string currentFilePath = "";
-        public Form1()
+        public Notepade()
         {
             InitializeComponent();
         }

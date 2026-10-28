@@ -1,6 +1,6 @@
 ﻿namespace Notepade
 {
-    partial class Form1
+    partial class Notepade
     {
         /// <summary>
         ///  Required designer variable.
@@ -331,7 +331,7 @@
             оПрограммеToolStripMenuItem.Size = new Size(195, 22);
             оПрограммеToolStripMenuItem.Text = "О программе";
             // 
-            // Form1
+            // Notepade
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -341,7 +341,7 @@
             Controls.Add(menuStrip1);
             ForeColor = SystemColors.WindowText;
             MainMenuStrip = menuStrip1;
-            Name = "Form1";
+            Name = "Notepade";
             Text = "Блокнот";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
